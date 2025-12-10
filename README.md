@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vroman1995
-- 👀 I’m interested in Power Electronics
-- 🌱 I’m currently learning Matlab and Python.
-- 💞️ I’m looking to collaborate on a team that design PCBs
+- 👀 I’m interested in Programming and Power Electronics
+- 🌱 I’m currently learning Scikit-Learn.
+- 💞️ I’m looking to collaborate on a team of I+d
 - 📫 How to reach me: v.f.roman.m@gmail.com
 
 <!---
